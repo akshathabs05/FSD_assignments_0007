@@ -1,0 +1,14 @@
+import logo from './logo.svg';
+import './App.css';
+
+function App() {
+  return (
+    <div className="App">
+      <img src = "https://static.vecteezy.com/system/resources/previews/036/151/781/non_2x/illustration-cartoon-of-a-cute-girl-standing-and-smiling-while-dressed-in-colorful-and-casual-clothes-vector.jpg"width="400" height="300"/>
+      
+     Akshatha
+    </div>
+  );
+}
+
+export default App;
